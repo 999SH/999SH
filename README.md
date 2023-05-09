@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Viktor</h1>
-<h3 align="center">A an undergraduate programmer at KTH</h3>
+<h3 align="center">An undergraduate programmer at KTH</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=py,c,js,linux,bash,flask,vim,java,elixir,latex,html,css,rails,tensorflow,react,postgres,git,autocad&perline=9)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=999sh&show_icons=true&locale=en&layout=compact" alt="999sh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=999sh&theme=merko&show_icons=true&locale=en&layout=compact"alt="anuraghazra" /></p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,js,linux,bash,flask,vim, java,elixir,latex,html,css,rails,tensorflow,react,postgres,md,git,autocad, processing&perline=4)](https://skillicons.dev)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=999sh&show_icons=true&locale=en" alt="999sh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=999sh&theme=merko&show_icons=true&locale=en" alt="alt="anuraghazra" /></p>
