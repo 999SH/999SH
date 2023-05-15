@@ -5,6 +5,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,js,linux,bash,flask,vim,java,elixir,latex,html,css,rails,tensorflow,react,postgres,git,autocad&perline=9)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=999sh&theme=merko&show_icons=true&locale=en&layout=compact"alt="anuraghazra" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=999sh&theme=merko&show_icons=true&locale=en&layout=compact"alt="anuraghazra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=999sh&theme=merko&show_icons=true&locale=en" alt="alt="anuraghazra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=999sh&theme=merko&show_icons=true&locale=en" alt="alt="anuraghazra" /></p>
