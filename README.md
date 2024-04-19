@@ -3,7 +3,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,js,linux,bash,rust,vim,java,elixir,latex,html,css,flask,tensorflow,react,postgres,git,autocad&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,js,linux,arch,rust,vim,java,elixir,latex,html,css,bash,tensorflow,react,postgres,git,autocad&perline=9)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=999sh&theme=merko&show_icons=true&locale=en&layout=compact"alt="anuraghazra" /></p>
 
