@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Viktor</h1>
-<h3 align="center"> Graduated from KTH </h3>
+<h3 align="center"> A programmer with a B.Sc from KTH in ICT </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
